@@ -1,0 +1,303 @@
+{
+  "upstream_url": "https://github.com/AhmadHassan-BTed/Turnitout-Humanizer",
+  "upstream_commit": "1363602d165eb02a3168d10c52f6357f2bd2f089",
+  "origin": "Original reconstructed resources, not recovered upstream assets",
+  "files": [
+    {
+      "path": "rules/synonyms.json",
+      "kind": "mapping",
+      "source": "docs/GodGuide.md section 2",
+      "schema_status": "documented",
+      "entries": 220
+    },
+    {
+      "path": "rules/phrases.json",
+      "kind": "regex_pairs",
+      "source": "docs/GodGuide.md section 3",
+      "schema_status": "documented",
+      "entries": 95
+    },
+    {
+      "path": "rules/determiners.json",
+      "kind": "mapping",
+      "source": "docs/GodGuide.md section 4",
+      "schema_status": "documented",
+      "entries": 12
+    },
+    {
+      "path": "rules/hedge_words.json",
+      "kind": "string_list",
+      "source": "docs/GodGuide.md",
+      "schema_status": "documented",
+      "entries": 12
+    },
+    {
+      "path": "rules/conjunctions.json",
+      "kind": "string_list",
+      "source": "docs/GodGuide.md",
+      "schema_status": "documented",
+      "entries": 25
+    },
+    {
+      "path": "rules/qualifiers.json",
+      "kind": "string_list",
+      "source": "docs/changelog.md; ARCHITECTURE_RULES.md",
+      "schema_status": "documented",
+      "entries": 12
+    },
+    {
+      "path": "rules/helper_verbs.json",
+      "kind": "string_list",
+      "source": "docs/changelog.md; ARCHITECTURE_RULES.md",
+      "schema_status": "inferred",
+      "entries": 23
+    },
+    {
+      "path": "rules/adjective_suffixes.json",
+      "kind": "string_list",
+      "source": "docs/changelog.md; ARCHITECTURE_RULES.md",
+      "schema_status": "inferred",
+      "entries": 9
+    },
+    {
+      "path": "rules/adverbs.json",
+      "kind": "string_list",
+      "source": "docs/changelog.md; ARCHITECTURE_RULES.md",
+      "schema_status": "inferred",
+      "entries": 11
+    },
+    {
+      "path": "rules/fusion_connectors.json",
+      "kind": "string_list",
+      "source": "docs/changelog.md; ARCHITECTURE_RULES.md",
+      "schema_status": "inferred",
+      "entries": 4
+    },
+    {
+      "path": "rules/keywords.json",
+      "kind": "string_list",
+      "source": "docs/changelog.md; ARCHITECTURE_RULES.md",
+      "schema_status": "inferred",
+      "entries": 4
+    },
+    {
+      "path": "rules/protected_terms.json",
+      "kind": "string_list",
+      "source": "docs/GodGuide.md section 4",
+      "schema_status": "documented",
+      "entries": 127
+    },
+    {
+      "path": "rules/transitions.json",
+      "kind": "mapping",
+      "source": "docs/GodGuide.md stage C",
+      "schema_status": "inferred",
+      "entries": 7
+    },
+    {
+      "path": "rules/discourse_markers.json",
+      "kind": "mapping",
+      "source": "docs/GodGuide.md stage G",
+      "schema_status": "inferred",
+      "entries": 9
+    },
+    {
+      "path": "rules/nominalizations.json",
+      "kind": "string_mapping",
+      "source": "docs/GodGuide.md stage E",
+      "schema_status": "inferred",
+      "entries": 30
+    },
+    {
+      "path": "rules/voice_verbs.json",
+      "kind": "verb_records",
+      "source": "docs/GodGuide.md stage A",
+      "schema_status": "inferred",
+      "entries": 50
+    },
+    {
+      "path": "rules/appositives.json",
+      "kind": "string_mapping",
+      "source": "docs/GodGuide.md stage F",
+      "schema_status": "inferred",
+      "entries": 10
+    },
+    {
+      "path": "rules/patterns.json",
+      "kind": "regex_pairs",
+      "source": "docs/changelog.md v1.5.0",
+      "schema_status": "inferred",
+      "entries": 3
+    },
+    {
+      "path": "rules/sentence_split_patterns.json",
+      "kind": "regex_list",
+      "source": "docs/changelog.md v1.3.0",
+      "schema_status": "inferred",
+      "entries": 1
+    },
+    {
+      "path": "rules/academic/taxonomy/computer_science/artificial_intelligence.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/computer_science/cybersecurity.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/computer_science/software_engineering.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/computer_science/systems_networking.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/engineering_physics/fluid_dynamics.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/engineering_physics/signal_processing.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/mathematics_statistics/differential_equations.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/mathematics_statistics/numerical_analysis.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/quantitative_finance/option_pricing.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/quantitative_finance/risk_modeling.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/medical_life_sciences/bioinformatics.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/taxonomy/medical_life_sciences/genomics.json",
+      "kind": "taxonomy",
+      "source": "ARCHITECTURE_RULES.md sections 2\u20133",
+      "schema_status": "partial: outer fields documented; topic fields inferred",
+      "entries": 2
+    },
+    {
+      "path": "rules/academic/general_topics.json",
+      "kind": "string_list",
+      "source": "ARCHITECTURE_RULES.md ACADEMIC_GENERAL_TOPICS; path inferred",
+      "schema_status": "inferred",
+      "entries": 5
+    },
+    {
+      "path": "configs/global_config.json",
+      "kind": "config",
+      "source": "AGENTS.md section 3; docs/GodGuide.md section 5; docs/changelog.md",
+      "schema_status": "partial: settings mixed documented/inferred; conservative defaults",
+      "entries": 29
+    },
+    {
+      "path": "rules/editor_protection.json",
+      "kind": "protection",
+      "source": "Original Streamlit implementation",
+      "schema_status": "original",
+      "entries": 1
+    }
+  ],
+  "markdown_reviewed": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "13bfcc97463167c38832dda18034d89615fcbf7fa806297ca894d544f03f4f85"
+    },
+    {
+      "path": "ARCHITECTURE_RULES.md",
+      "sha256": "63d09a96ed1ad6e4f52b8da29917b44cce6888374edc1c76a7a19889988d41a5"
+    },
+    {
+      "path": "PRIVACY.md",
+      "sha256": "889ddc1abc567b36f516dd7b2621dfe0c431df9d740f7149699463f792420576"
+    },
+    {
+      "path": "README.md",
+      "sha256": "927fc84ea673b896f3c0a7e5b3974c79c2e3cef07961460d4d5d33145eb57044"
+    },
+    {
+      "path": "TERMS.md",
+      "sha256": "0b24a0bc81f2ad202b3b28cd71e21a42787dcd782b7e25f1d3c224d89aac86d1"
+    },
+    {
+      "path": "TODO.md",
+      "sha256": "d8fd9303290906452e272ed0e73a1d402da3ba91238abadcb6d475dc7178d878"
+    },
+    {
+      "path": "docs/GodGuide.md",
+      "sha256": "0a92dd2dc8a42f3c112a02dd6bdc2dcbc55019e6de7933ae7352239e023626e8"
+    },
+    {
+      "path": "docs/architecture.md",
+      "sha256": "73f6c2ef037968b586e8f3116cb4f5477c109187ed231ebe3788f6b33fd85b85"
+    },
+    {
+      "path": "docs/changelog.md",
+      "sha256": "0b59050317046cf7ae1f4ba4149db20044be35cd970536be563acd1d3541529f"
+    },
+    {
+      "path": "docs/getting-started.md",
+      "sha256": "d6f32373f41304e448ed179e48e59f013cd0bd1143e9566e71bac004f5e80eee"
+    },
+    {
+      "path": "docs/roadmap.md",
+      "sha256": "f033e0d04ea0bc7028ab178e9f9bec5b700424ebe22606899706a4ea4ac3ead9"
+    },
+    {
+      "path": "docs/similarity_evasion_analysis.md",
+      "sha256": "72281d27149277aab8804b46df2c645faf2d8e3faaba960f06d660a5f0757771"
+    },
+    {
+      "path": "docs/technical-decisions.md",
+      "sha256": "9bae6bed054746303bc64083678352f1a9914f1b1a10b63c5eec202ed3103fd1"
+    },
+    {
+      "path": "similarity_evasion_analysis.md",
+      "sha256": "72281d27149277aab8804b46df2c645faf2d8e3faaba960f06d660a5f0757771"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "status": "PASS",
+  "resource_files": 34,
+  "compiled_regex_patterns": 117,
+  "synonym_entries": 220,
+  "phrase_rules": 95,
+  "taxonomy_files": 12,
+  "taxonomy_subfields": 24,
+  "upstream_engine_integration_tested": false
+}
