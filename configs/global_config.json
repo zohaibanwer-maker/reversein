@@ -1,0 +1,39 @@
+{
+  "__prompt__": "Role: Academic language resource editor. Task: Maintain config. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence.",
+  "whitelisted_users": [],
+  "traffic_balancing": {
+    "enable_offload": false,
+    "offload_percentage": 0,
+    "worker_nodes": []
+  },
+  "ui_flags": {
+    "show_ai_detection_in_remover": false,
+    "show_ai_checker_tab": false
+  },
+  "random_seed": 42,
+  "enable_synonyms": false,
+  "enable_phrase_rewrites": true,
+  "enable_determiner_swaps": false,
+  "enable_hedge_insertion": false,
+  "enable_ngram_audit": false,
+  "enable_citations": false,
+  "citation_policy": "verified_user_supplied_only",
+  "protect_numbers": true,
+  "protect_negation": true,
+  "protect_technical_terms": true,
+  "require_editorial_review": true,
+  "enable_voice_transform": false,
+  "voice_transform_rate": 0.3,
+  "enable_sentence_fusion": false,
+  "sentence_fusion_rate": 0.25,
+  "enable_transition_inject": false,
+  "transition_inject_rate": 0.25,
+  "enable_word_reorder": false,
+  "word_reorder_rate": 0.2,
+  "enable_nominalization": false,
+  "nominalization_rate": 0.2,
+  "enable_appositive": false,
+  "appositive_rate": 0.35,
+  "enable_discourse_rotate": false,
+  "discourse_rotate_rate": 0.5
+}
