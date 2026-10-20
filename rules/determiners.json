@@ -1,0 +1,40 @@
+{
+  "__prompt__": "Role: Academic language resource editor. Task: Maintain mapping. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence.",
+  "another": [
+    "an additional",
+    "a further"
+  ],
+  "such a": [
+    "a similar"
+  ],
+  "such an": [
+    "a similar"
+  ],
+  "these": [
+    "the present"
+  ],
+  "this": [
+    "the present"
+  ],
+  "those": [
+    "the previously mentioned"
+  ],
+  "both": [
+    "the two"
+  ],
+  "several": [
+    "a number of"
+  ],
+  "many": [
+    "numerous"
+  ],
+  "most": [
+    "the majority of"
+  ],
+  "all the": [
+    "the entirety of the"
+  ],
+  "some": [
+    "certain"
+  ]
+}

@@ -1,0 +1,43 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "machine_learning",
+    "subfield_name": "Machine Learning",
+    "topics": [
+      {
+        "topic_id": "machine_learning_core",
+        "topic_name": "Machine Learning",
+        "keywords": [
+          "supervised learning",
+          "unsupervised learning",
+          "classification",
+          "regression"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "deep_learning",
+    "subfield_name": "Deep Learning",
+    "topics": [
+      {
+        "topic_id": "deep_learning_core",
+        "topic_name": "Deep Learning",
+        "keywords": [
+          "neural network",
+          "convolutional network",
+          "transformer",
+          "representation learning"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

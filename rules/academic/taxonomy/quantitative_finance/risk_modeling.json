@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "market_risk",
+    "subfield_name": "Market Risk",
+    "topics": [
+      {
+        "topic_id": "market_risk_core",
+        "topic_name": "Market Risk",
+        "keywords": [
+          "value at risk",
+          "expected shortfall",
+          "volatility"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "credit_risk",
+    "subfield_name": "Credit Risk",
+    "topics": [
+      {
+        "topic_id": "credit_risk_core",
+        "topic_name": "Credit Risk",
+        "keywords": [
+          "default probability",
+          "credit exposure",
+          "loss given default"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "__prompt__": "Role: Academic language resource editor. Task: Maintain mapping. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence.",
+  "addition": [
+    "in addition",
+    "furthermore",
+    "moreover"
+  ],
+  "contrast": [
+    "however",
+    "in contrast",
+    "by contrast"
+  ],
+  "cause_effect": [
+    "therefore",
+    "consequently",
+    "as a result"
+  ],
+  "clarification": [
+    "in other words",
+    "more specifically",
+    "to clarify"
+  ],
+  "sequence": [
+    "next",
+    "subsequently",
+    "afterward"
+  ],
+  "emphasis": [
+    "notably",
+    "in particular"
+  ],
+  "concession": [
+    "nevertheless",
+    "nonetheless"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "__prompt__": "Role: Text protection maintainer. Preserve literal code, basic math, links, numbers and quotations. These regexes do not constitute a complete Markdown or LaTeX parser.",
+  "patterns": [
+    "(?s:```.*?(?:```|\\Z))",
+    "(?s:~~~.*?(?:~~~|\\Z))",
+    "`[^`\\n]*`",
+    "(?s:\\$\\$.*?\\$\\$)",
+    "\\$[^$\\n]*\\$",
+    "(?s:\\\\\\[.*?\\\\\\])",
+    "\\\\\\(.*?\\\\\\)",
+    "\\\\[A-Za-z]+\\*?(?:\\[[^\\]\\n]*\\])?(?:\\{[^{}\\n]*\\})*",
+    "https?://[^\\s<>]+",
+    "\\b[\\w.+-]+@[\\w.-]+\\.[A-Za-z]{2,}\\b",
+    "!?\\[[^\\]\\n]*\\]\\([^\\)\\n]*\\)",
+    "\\[[\\d,; \u2013-]+\\]",
+    "\\b\\d+(?:[.,:/-]\\d+)*(?:%|[A-Za-z]+)?\\b",
+    "\"[^\"\\n]*\"",
+    "\u201c[^\u201d\\n]*\u201d",
+    "^#{1,6}\\s.*$",
+    "^\\s*\\|.*$",
+    "\\b(?:not|never|no|without|neither|nor)\\b"
+  ]
+}

@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "network_security",
+    "subfield_name": "Network Security",
+    "topics": [
+      {
+        "topic_id": "network_security_core",
+        "topic_name": "Network Security",
+        "keywords": [
+          "intrusion detection",
+          "network security",
+          "firewall"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "cryptography",
+    "subfield_name": "Cryptography",
+    "topics": [
+      {
+        "topic_id": "cryptography_core",
+        "topic_name": "Cryptography",
+        "keywords": [
+          "encryption",
+          "digital signature",
+          "key exchange"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

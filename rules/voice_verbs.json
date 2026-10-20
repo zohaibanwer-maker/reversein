@@ -1,0 +1,353 @@
+{
+  "__prompt__": "Role: Academic language resource editor. Task: Maintain verb_records. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence.",
+  "analyze": {
+    "base": "analyze",
+    "past": "analyzed",
+    "past_participle": "analyzed",
+    "third_person": "analyzes",
+    "present_participle": "analyzing"
+  },
+  "calculate": {
+    "base": "calculate",
+    "past": "calculated",
+    "past_participle": "calculated",
+    "third_person": "calculates",
+    "present_participle": "calculating"
+  },
+  "compare": {
+    "base": "compare",
+    "past": "compared",
+    "past_participle": "compared",
+    "third_person": "compares",
+    "present_participle": "comparing"
+  },
+  "describe": {
+    "base": "describe",
+    "past": "described",
+    "past_participle": "described",
+    "third_person": "describes",
+    "present_participle": "describing"
+  },
+  "evaluate": {
+    "base": "evaluate",
+    "past": "evaluated",
+    "past_participle": "evaluated",
+    "third_person": "evaluates",
+    "present_participle": "evaluating"
+  },
+  "investigate": {
+    "base": "investigate",
+    "past": "investigated",
+    "past_participle": "investigated",
+    "third_person": "investigates",
+    "present_participle": "investigating"
+  },
+  "illustrate": {
+    "base": "illustrate",
+    "past": "illustrated",
+    "past_participle": "illustrated",
+    "third_person": "illustrates",
+    "present_participle": "illustrating"
+  },
+  "indicate": {
+    "base": "indicate",
+    "past": "indicated",
+    "past_participle": "indicated",
+    "third_person": "indicates",
+    "present_participle": "indicating"
+  },
+  "confirm": {
+    "base": "confirm",
+    "past": "confirmed",
+    "past_participle": "confirmed",
+    "third_person": "confirms",
+    "present_participle": "confirming"
+  },
+  "identify": {
+    "base": "identify",
+    "past": "identified",
+    "past_participle": "identified",
+    "third_person": "identifies",
+    "present_participle": "identifying"
+  },
+  "develop": {
+    "base": "develop",
+    "past": "developed",
+    "past_participle": "developed",
+    "third_person": "develops",
+    "present_participle": "developing"
+  },
+  "modify": {
+    "base": "modify",
+    "past": "modified",
+    "past_participle": "modified",
+    "third_person": "modifies",
+    "present_participle": "modifying"
+  },
+  "improve": {
+    "base": "improve",
+    "past": "improved",
+    "past_participle": "improved",
+    "third_person": "improves",
+    "present_participle": "improving"
+  },
+  "reduce": {
+    "base": "reduce",
+    "past": "reduced",
+    "past_participle": "reduced",
+    "third_person": "reduces",
+    "present_participle": "reducing"
+  },
+  "increase": {
+    "base": "increase",
+    "past": "increased",
+    "past_participle": "increased",
+    "third_person": "increases",
+    "present_participle": "increasing"
+  },
+  "combine": {
+    "base": "combine",
+    "past": "combined",
+    "past_participle": "combined",
+    "third_person": "combines",
+    "present_participle": "combining"
+  },
+  "separate": {
+    "base": "separate",
+    "past": "separated",
+    "past_participle": "separated",
+    "third_person": "separates",
+    "present_participle": "separating"
+  },
+  "select": {
+    "base": "select",
+    "past": "selected",
+    "past_participle": "selected",
+    "third_person": "selects",
+    "present_participle": "selecting"
+  },
+  "observe": {
+    "base": "observe",
+    "past": "observed",
+    "past_participle": "observed",
+    "third_person": "observes",
+    "present_participle": "observing"
+  },
+  "present": {
+    "base": "present",
+    "past": "presented",
+    "past_participle": "presented",
+    "third_person": "presents",
+    "present_participle": "presenting"
+  },
+  "explain": {
+    "base": "explain",
+    "past": "explained",
+    "past_participle": "explained",
+    "third_person": "explains",
+    "present_participle": "explaining"
+  },
+  "examine": {
+    "base": "examine",
+    "past": "examined",
+    "past_participle": "examined",
+    "third_person": "examines",
+    "present_participle": "examining"
+  },
+  "implement": {
+    "base": "implement",
+    "past": "implemented",
+    "past_participle": "implemented",
+    "third_person": "implements",
+    "present_participle": "implementing"
+  },
+  "require": {
+    "base": "require",
+    "past": "required",
+    "past_participle": "required",
+    "third_person": "requires",
+    "present_participle": "requiring"
+  },
+  "include": {
+    "base": "include",
+    "past": "included",
+    "past_participle": "included",
+    "third_person": "includes",
+    "present_participle": "including"
+  },
+  "exclude": {
+    "base": "exclude",
+    "past": "excluded",
+    "past_participle": "excluded",
+    "third_person": "excludes",
+    "present_participle": "excluding"
+  },
+  "produce": {
+    "base": "produce",
+    "past": "produced",
+    "past_participle": "produced",
+    "third_person": "produces",
+    "present_participle": "producing"
+  },
+  "provide": {
+    "base": "provide",
+    "past": "provided",
+    "past_participle": "provided",
+    "third_person": "provides",
+    "present_participle": "providing"
+  },
+  "obtain": {
+    "base": "obtain",
+    "past": "obtained",
+    "past_participle": "obtained",
+    "third_person": "obtains",
+    "present_participle": "obtaining"
+  },
+  "maintain": {
+    "base": "maintain",
+    "past": "maintained",
+    "past_participle": "maintained",
+    "third_person": "maintains",
+    "present_participle": "maintaining"
+  },
+  "assess": {
+    "base": "assess",
+    "past": "assessed",
+    "past_participle": "assessed",
+    "third_person": "assesses",
+    "present_participle": "assessing"
+  },
+  "estimate": {
+    "base": "estimate",
+    "past": "estimated",
+    "past_participle": "estimated",
+    "third_person": "estimates",
+    "present_participle": "estimating"
+  },
+  "measure": {
+    "base": "measure",
+    "past": "measured",
+    "past_participle": "measured",
+    "third_person": "measures",
+    "present_participle": "measuring"
+  },
+  "monitor": {
+    "base": "monitor",
+    "past": "monitored",
+    "past_participle": "monitored",
+    "third_person": "monitors",
+    "present_participle": "monitoring"
+  },
+  "validate": {
+    "base": "validate",
+    "past": "validated",
+    "past_participle": "validated",
+    "third_person": "validates",
+    "present_participle": "validating"
+  },
+  "summarize": {
+    "base": "summarize",
+    "past": "summarized",
+    "past_participle": "summarized",
+    "third_person": "summarizes",
+    "present_participle": "summarizing"
+  },
+  "utilize": {
+    "base": "utilize",
+    "past": "utilized",
+    "past_participle": "utilized",
+    "third_person": "utilizes",
+    "present_participle": "utilizing"
+  },
+  "facilitate": {
+    "base": "facilitate",
+    "past": "facilitated",
+    "past_participle": "facilitated",
+    "third_person": "facilitates",
+    "present_participle": "facilitating"
+  },
+  "limit": {
+    "base": "limit",
+    "past": "limited",
+    "past_participle": "limited",
+    "third_person": "limits",
+    "present_participle": "limiting"
+  },
+  "extend": {
+    "base": "extend",
+    "past": "extended",
+    "past_participle": "extended",
+    "third_person": "extends",
+    "present_participle": "extending"
+  },
+  "alter": {
+    "base": "alter",
+    "past": "altered",
+    "past_participle": "altered",
+    "third_person": "alters",
+    "present_participle": "altering"
+  },
+  "relate": {
+    "base": "relate",
+    "past": "related",
+    "past_participle": "related",
+    "third_person": "relates",
+    "present_participle": "relating"
+  },
+  "support": {
+    "base": "support",
+    "past": "supported",
+    "past_participle": "supported",
+    "third_person": "supports",
+    "present_participle": "supporting"
+  },
+  "specify": {
+    "base": "specify",
+    "past": "specified",
+    "past_participle": "specified",
+    "third_person": "specifies",
+    "present_participle": "specifying"
+  },
+  "review": {
+    "base": "review",
+    "past": "reviewed",
+    "past_participle": "reviewed",
+    "third_person": "reviews",
+    "present_participle": "reviewing"
+  },
+  "characterize": {
+    "base": "characterize",
+    "past": "characterized",
+    "past_participle": "characterized",
+    "third_person": "characterizes",
+    "present_participle": "characterizing"
+  },
+  "clarify": {
+    "base": "clarify",
+    "past": "clarified",
+    "past_participle": "clarified",
+    "third_person": "clarifies",
+    "present_participle": "clarifying"
+  },
+  "eliminate": {
+    "base": "eliminate",
+    "past": "eliminated",
+    "past_participle": "eliminated",
+    "third_person": "eliminates",
+    "present_participle": "eliminating"
+  },
+  "organize": {
+    "base": "organize",
+    "past": "organized",
+    "past_participle": "organized",
+    "third_person": "organizes",
+    "present_participle": "organizing"
+  },
+  "retain": {
+    "base": "retain",
+    "past": "retained",
+    "past_participle": "retained",
+    "third_person": "retains",
+    "present_participle": "retaining"
+  }
+}

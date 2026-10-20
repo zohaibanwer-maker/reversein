@@ -1,0 +1,42 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "distributed_systems",
+    "subfield_name": "Distributed Systems",
+    "topics": [
+      {
+        "topic_id": "distributed_systems_core",
+        "topic_name": "Distributed Systems",
+        "keywords": [
+          "distributed system",
+          "consensus",
+          "replication"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "iot_networks",
+    "subfield_name": "IoT Networks",
+    "topics": [
+      {
+        "topic_id": "iot_networks_core",
+        "topic_name": "IoT Networks",
+        "keywords": [
+          "internet of things",
+          "MQTT",
+          "CoAP",
+          "wireless sensor network"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

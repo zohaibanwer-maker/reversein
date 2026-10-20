@@ -1,0 +1,17 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain regex_pairs. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  [
+    "\\bdelve\\ into\\b",
+    "examine"
+  ],
+  [
+    "\\bplays\\ a\\ pivotal\\ role\\b",
+    "plays an important role"
+  ],
+  [
+    "\\bthe\\ interplay\\ between\\b",
+    "the interaction between"
+  ]
+]

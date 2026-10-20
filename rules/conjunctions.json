@@ -1,0 +1,30 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain string_list. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  "although",
+  "because",
+  "since",
+  "while",
+  "whereas",
+  "if",
+  "unless",
+  "until",
+  "when",
+  "whenever",
+  "before",
+  "after",
+  "provided that",
+  "assuming that",
+  "given that",
+  "even though",
+  "so that",
+  "in order that",
+  "as long as",
+  "once",
+  "whether",
+  "only if",
+  "even if",
+  "in case",
+  "as soon as"
+]

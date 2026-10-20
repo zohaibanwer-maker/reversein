@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "ordinary_equations",
+    "subfield_name": "Ordinary Differential Equations",
+    "topics": [
+      {
+        "topic_id": "ordinary_equations_core",
+        "topic_name": "Ordinary Differential Equations",
+        "keywords": [
+          "ordinary differential equation",
+          "initial value problem",
+          "Runge-Kutta"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "partial_equations",
+    "subfield_name": "Partial Differential Equations",
+    "topics": [
+      {
+        "topic_id": "partial_equations_core",
+        "topic_name": "Partial Differential Equations",
+        "keywords": [
+          "partial differential equation",
+          "boundary value problem",
+          "heat equation"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

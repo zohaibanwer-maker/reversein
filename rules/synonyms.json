@@ -1,0 +1,1084 @@
+{
+  "__prompt__": "Role: Academic language resource editor. Task: Maintain mapping. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence.",
+  "analyze": [
+    "examine",
+    "assess",
+    "inspect"
+  ],
+  "analyzes": [
+    "examines",
+    "assesses",
+    "inspects"
+  ],
+  "analyzed": [
+    "examined",
+    "assessed",
+    "inspected"
+  ],
+  "analyzing": [
+    "examining",
+    "assessing",
+    "inspecting"
+  ],
+  "calculate": [
+    "compute",
+    "estimate",
+    "evaluate"
+  ],
+  "calculates": [
+    "computes",
+    "estimates",
+    "evaluates"
+  ],
+  "calculated": [
+    "computed",
+    "estimated",
+    "evaluated"
+  ],
+  "calculating": [
+    "computing",
+    "estimating",
+    "evaluating"
+  ],
+  "compare": [
+    "contrast",
+    "evaluate",
+    "examine"
+  ],
+  "compares": [
+    "contrasts",
+    "evaluates",
+    "examines"
+  ],
+  "compared": [
+    "contrasted",
+    "evaluated",
+    "examined"
+  ],
+  "comparing": [
+    "contrasting",
+    "evaluating",
+    "examining"
+  ],
+  "describe": [
+    "characterize",
+    "outline",
+    "detail"
+  ],
+  "describes": [
+    "characterizes",
+    "outlines",
+    "details"
+  ],
+  "described": [
+    "characterized",
+    "outlined",
+    "detailed"
+  ],
+  "describing": [
+    "characterizing",
+    "outlining",
+    "detailing"
+  ],
+  "evaluate": [
+    "assess",
+    "appraise",
+    "examine"
+  ],
+  "evaluates": [
+    "assesses",
+    "appraises",
+    "examines"
+  ],
+  "evaluated": [
+    "assessed",
+    "appraised",
+    "examined"
+  ],
+  "evaluating": [
+    "assessing",
+    "appraising",
+    "examining"
+  ],
+  "investigate": [
+    "examine",
+    "explore",
+    "study"
+  ],
+  "investigates": [
+    "examines",
+    "explores",
+    "studies"
+  ],
+  "investigated": [
+    "examined",
+    "explored",
+    "studied"
+  ],
+  "investigating": [
+    "examining",
+    "exploring",
+    "studying"
+  ],
+  "illustrate": [
+    "demonstrate",
+    "depict",
+    "exemplify"
+  ],
+  "illustrates": [
+    "demonstrates",
+    "depicts",
+    "exemplifies"
+  ],
+  "illustrated": [
+    "demonstrated",
+    "depicted",
+    "exemplified"
+  ],
+  "illustrating": [
+    "demonstrating",
+    "depicting",
+    "exemplifying"
+  ],
+  "indicate": [
+    "suggest",
+    "signal",
+    "imply"
+  ],
+  "indicates": [
+    "suggests",
+    "signals",
+    "implies"
+  ],
+  "indicated": [
+    "suggested",
+    "signaled",
+    "implied"
+  ],
+  "indicating": [
+    "suggesting",
+    "signaling",
+    "implying"
+  ],
+  "confirm": [
+    "verify",
+    "corroborate",
+    "substantiate"
+  ],
+  "confirms": [
+    "verifies",
+    "corroborates",
+    "substantiates"
+  ],
+  "confirmed": [
+    "verified",
+    "corroborated",
+    "substantiated"
+  ],
+  "confirming": [
+    "verifying",
+    "corroborating",
+    "substantiating"
+  ],
+  "identify": [
+    "recognize",
+    "detect",
+    "locate"
+  ],
+  "identifies": [
+    "recognizes",
+    "detects",
+    "locates"
+  ],
+  "identified": [
+    "recognized",
+    "detected",
+    "located"
+  ],
+  "identifying": [
+    "recognizing",
+    "detecting",
+    "locating"
+  ],
+  "develop": [
+    "design",
+    "create",
+    "construct"
+  ],
+  "develops": [
+    "designs",
+    "creates",
+    "constructs"
+  ],
+  "developed": [
+    "designed",
+    "created",
+    "constructed"
+  ],
+  "developing": [
+    "designing",
+    "creating",
+    "constructing"
+  ],
+  "modify": [
+    "adjust",
+    "revise",
+    "alter"
+  ],
+  "modifies": [
+    "adjusts",
+    "revises",
+    "alters"
+  ],
+  "modified": [
+    "adjusted",
+    "revised",
+    "altered"
+  ],
+  "modifying": [
+    "adjusting",
+    "revising",
+    "altering"
+  ],
+  "improve": [
+    "enhance",
+    "refine",
+    "strengthen"
+  ],
+  "improves": [
+    "enhances",
+    "refines",
+    "strengthens"
+  ],
+  "improved": [
+    "enhanced",
+    "refined",
+    "strengthened"
+  ],
+  "improving": [
+    "enhancing",
+    "refining",
+    "strengthening"
+  ],
+  "reduce": [
+    "decrease",
+    "lower",
+    "diminish"
+  ],
+  "reduces": [
+    "decreases",
+    "lowers",
+    "diminishes"
+  ],
+  "reduced": [
+    "decreased",
+    "lowered",
+    "diminished"
+  ],
+  "reducing": [
+    "decreasing",
+    "lowering",
+    "diminishing"
+  ],
+  "increase": [
+    "raise",
+    "expand",
+    "augment"
+  ],
+  "increases": [
+    "raises",
+    "expands",
+    "augments"
+  ],
+  "increased": [
+    "raised",
+    "expanded",
+    "augmented"
+  ],
+  "increasing": [
+    "raising",
+    "expanding",
+    "augmenting"
+  ],
+  "combine": [
+    "merge",
+    "integrate",
+    "unite"
+  ],
+  "combines": [
+    "merges",
+    "integrates",
+    "unites"
+  ],
+  "combined": [
+    "merged",
+    "integrated",
+    "united"
+  ],
+  "combining": [
+    "merging",
+    "integrating",
+    "uniting"
+  ],
+  "separate": [
+    "divide",
+    "partition",
+    "isolate"
+  ],
+  "separates": [
+    "divides",
+    "partitions",
+    "isolates"
+  ],
+  "separated": [
+    "divided",
+    "partitioned",
+    "isolated"
+  ],
+  "separating": [
+    "dividing",
+    "partitioning",
+    "isolating"
+  ],
+  "select": [
+    "choose",
+    "pick",
+    "designate"
+  ],
+  "selects": [
+    "chooses",
+    "picks",
+    "designates"
+  ],
+  "selected": [
+    "chose",
+    "picked",
+    "designated"
+  ],
+  "selecting": [
+    "choosing",
+    "picking",
+    "designating"
+  ],
+  "observe": [
+    "note",
+    "detect",
+    "record"
+  ],
+  "observes": [
+    "notes",
+    "detects",
+    "records"
+  ],
+  "observed": [
+    "noted",
+    "detected",
+    "recorded"
+  ],
+  "observing": [
+    "noting",
+    "detecting",
+    "recording"
+  ],
+  "present": [
+    "report",
+    "describe",
+    "introduce"
+  ],
+  "presents": [
+    "reports",
+    "describes",
+    "introduces"
+  ],
+  "presented": [
+    "reported",
+    "described",
+    "introduced"
+  ],
+  "presenting": [
+    "reporting",
+    "describing",
+    "introducing"
+  ],
+  "explain": [
+    "clarify",
+    "interpret",
+    "elucidate"
+  ],
+  "explains": [
+    "clarifies",
+    "interprets",
+    "elucidates"
+  ],
+  "explained": [
+    "clarified",
+    "interpreted",
+    "elucidated"
+  ],
+  "explaining": [
+    "clarifying",
+    "interpreting",
+    "elucidating"
+  ],
+  "examine": [
+    "inspect",
+    "analyze",
+    "review"
+  ],
+  "examines": [
+    "inspects",
+    "analyzes",
+    "reviews"
+  ],
+  "examined": [
+    "inspected",
+    "analyzed",
+    "reviewed"
+  ],
+  "examining": [
+    "inspecting",
+    "analyzing",
+    "reviewing"
+  ],
+  "implement": [
+    "execute",
+    "apply",
+    "deploy"
+  ],
+  "implements": [
+    "executes",
+    "applies",
+    "deploys"
+  ],
+  "implemented": [
+    "executed",
+    "applied",
+    "deployed"
+  ],
+  "implementing": [
+    "executing",
+    "applying",
+    "deploying"
+  ],
+  "require": [
+    "need",
+    "necessitate",
+    "demand"
+  ],
+  "requires": [
+    "needs",
+    "necessitates",
+    "demands"
+  ],
+  "required": [
+    "needed",
+    "necessitated",
+    "demanded"
+  ],
+  "requiring": [
+    "needing",
+    "necessitating",
+    "demanding"
+  ],
+  "include": [
+    "contain",
+    "incorporate",
+    "comprise"
+  ],
+  "includes": [
+    "contains",
+    "incorporates",
+    "comprises"
+  ],
+  "included": [
+    "contained",
+    "incorporated",
+    "comprised"
+  ],
+  "including": [
+    "containing",
+    "incorporating",
+    "comprising"
+  ],
+  "exclude": [
+    "omit",
+    "remove",
+    "eliminate"
+  ],
+  "excludes": [
+    "omits",
+    "removes",
+    "eliminates"
+  ],
+  "excluded": [
+    "omitted",
+    "removed",
+    "eliminated"
+  ],
+  "excluding": [
+    "omitting",
+    "removing",
+    "eliminating"
+  ],
+  "produce": [
+    "generate",
+    "create",
+    "yield"
+  ],
+  "produces": [
+    "generates",
+    "creates",
+    "yields"
+  ],
+  "produced": [
+    "generated",
+    "created",
+    "yielded"
+  ],
+  "producing": [
+    "generating",
+    "creating",
+    "yielding"
+  ],
+  "provide": [
+    "supply",
+    "offer",
+    "deliver"
+  ],
+  "provides": [
+    "supplies",
+    "offers",
+    "delivers"
+  ],
+  "provided": [
+    "supplied",
+    "offered",
+    "delivered"
+  ],
+  "providing": [
+    "supplying",
+    "offering",
+    "delivering"
+  ],
+  "obtain": [
+    "acquire",
+    "retrieve",
+    "secure"
+  ],
+  "obtains": [
+    "acquires",
+    "retrieves",
+    "secures"
+  ],
+  "obtained": [
+    "acquired",
+    "retrieved",
+    "secured"
+  ],
+  "obtaining": [
+    "acquiring",
+    "retrieving",
+    "securing"
+  ],
+  "maintain": [
+    "preserve",
+    "retain",
+    "sustain"
+  ],
+  "maintains": [
+    "preserves",
+    "retains",
+    "sustains"
+  ],
+  "maintained": [
+    "preserved",
+    "retained",
+    "sustained"
+  ],
+  "maintaining": [
+    "preserving",
+    "retaining",
+    "sustaining"
+  ],
+  "assess": [
+    "evaluate",
+    "appraise",
+    "review"
+  ],
+  "assesses": [
+    "evaluates",
+    "appraises",
+    "reviews"
+  ],
+  "assessed": [
+    "evaluated",
+    "appraised",
+    "reviewed"
+  ],
+  "assessing": [
+    "evaluating",
+    "appraising",
+    "reviewing"
+  ],
+  "estimate": [
+    "approximate",
+    "project",
+    "calculate"
+  ],
+  "estimates": [
+    "approximates",
+    "projects",
+    "calculates"
+  ],
+  "estimated": [
+    "approximated",
+    "projected",
+    "calculated"
+  ],
+  "estimating": [
+    "approximating",
+    "projecting",
+    "calculating"
+  ],
+  "measure": [
+    "quantify",
+    "gauge",
+    "assess"
+  ],
+  "measures": [
+    "quantifies",
+    "gauges",
+    "assesses"
+  ],
+  "measured": [
+    "quantified",
+    "gauged",
+    "assessed"
+  ],
+  "measuring": [
+    "quantifying",
+    "gauging",
+    "assessing"
+  ],
+  "monitor": [
+    "track",
+    "observe",
+    "watch"
+  ],
+  "monitors": [
+    "tracks",
+    "observes",
+    "watches"
+  ],
+  "monitored": [
+    "tracked",
+    "observed",
+    "watched"
+  ],
+  "monitoring": [
+    "tracking",
+    "observing",
+    "watching"
+  ],
+  "validate": [
+    "verify",
+    "confirm",
+    "substantiate"
+  ],
+  "validates": [
+    "verifies",
+    "confirms",
+    "substantiates"
+  ],
+  "validated": [
+    "verified",
+    "confirmed",
+    "substantiated"
+  ],
+  "validating": [
+    "verifying",
+    "confirming",
+    "substantiating"
+  ],
+  "summarize": [
+    "outline",
+    "condense",
+    "recapitulate"
+  ],
+  "summarizes": [
+    "outlines",
+    "condenses",
+    "recapitulates"
+  ],
+  "summarized": [
+    "outlined",
+    "condensed",
+    "recapitulated"
+  ],
+  "summarizing": [
+    "outlining",
+    "condensing",
+    "recapitulating"
+  ],
+  "utilize": [
+    "use",
+    "employ",
+    "apply"
+  ],
+  "utilizes": [
+    "uses",
+    "employs",
+    "applies"
+  ],
+  "utilized": [
+    "used",
+    "employed",
+    "applied"
+  ],
+  "utilizing": [
+    "using",
+    "employing",
+    "applying"
+  ],
+  "facilitate": [
+    "enable",
+    "support",
+    "assist"
+  ],
+  "facilitates": [
+    "enables",
+    "supports",
+    "assists"
+  ],
+  "facilitated": [
+    "enabled",
+    "supported",
+    "assisted"
+  ],
+  "facilitating": [
+    "enabling",
+    "supporting",
+    "assisting"
+  ],
+  "limit": [
+    "restrict",
+    "constrain",
+    "bound"
+  ],
+  "limits": [
+    "restricts",
+    "constrains",
+    "bounds"
+  ],
+  "limited": [
+    "restricted",
+    "constrained",
+    "bounded"
+  ],
+  "limiting": [
+    "restricting",
+    "constraining",
+    "bounding"
+  ],
+  "extend": [
+    "expand",
+    "broaden",
+    "lengthen"
+  ],
+  "extends": [
+    "expands",
+    "broadens",
+    "lengthens"
+  ],
+  "extended": [
+    "expanded",
+    "broadened",
+    "lengthened"
+  ],
+  "extending": [
+    "expanding",
+    "broadening",
+    "lengthening"
+  ],
+  "alter": [
+    "modify",
+    "change",
+    "adjust"
+  ],
+  "alters": [
+    "modifies",
+    "changes",
+    "adjusts"
+  ],
+  "altered": [
+    "modified",
+    "changed",
+    "adjusted"
+  ],
+  "altering": [
+    "modifying",
+    "changing",
+    "adjusting"
+  ],
+  "relate": [
+    "connect",
+    "link",
+    "associate"
+  ],
+  "relates": [
+    "connects",
+    "links",
+    "associates"
+  ],
+  "related": [
+    "connected",
+    "linked",
+    "associated"
+  ],
+  "relating": [
+    "connecting",
+    "linking",
+    "associating"
+  ],
+  "support": [
+    "sustain",
+    "assist",
+    "reinforce"
+  ],
+  "supports": [
+    "sustains",
+    "assists",
+    "reinforces"
+  ],
+  "supported": [
+    "sustained",
+    "assisted",
+    "reinforced"
+  ],
+  "supporting": [
+    "sustaining",
+    "assisting",
+    "reinforcing"
+  ],
+  "specify": [
+    "define",
+    "state",
+    "designate"
+  ],
+  "specifies": [
+    "defines",
+    "states",
+    "designates"
+  ],
+  "specified": [
+    "defined",
+    "stated",
+    "designated"
+  ],
+  "specifying": [
+    "defining",
+    "stating",
+    "designating"
+  ],
+  "review": [
+    "examine",
+    "assess",
+    "inspect"
+  ],
+  "reviews": [
+    "examines",
+    "assesses",
+    "inspects"
+  ],
+  "reviewed": [
+    "examined",
+    "assessed",
+    "inspected"
+  ],
+  "reviewing": [
+    "examining",
+    "assessing",
+    "inspecting"
+  ],
+  "characterize": [
+    "describe",
+    "depict",
+    "portray"
+  ],
+  "characterizes": [
+    "describes",
+    "depicts",
+    "portrays"
+  ],
+  "characterized": [
+    "described",
+    "depicted",
+    "portrayed"
+  ],
+  "characterizing": [
+    "describing",
+    "depicting",
+    "portraying"
+  ],
+  "clarify": [
+    "explain",
+    "elucidate",
+    "specify"
+  ],
+  "clarifies": [
+    "explains",
+    "elucidates",
+    "specifies"
+  ],
+  "clarified": [
+    "explained",
+    "elucidated",
+    "specified"
+  ],
+  "clarifying": [
+    "explaining",
+    "elucidating",
+    "specifying"
+  ],
+  "eliminate": [
+    "remove",
+    "exclude",
+    "eradicate"
+  ],
+  "eliminates": [
+    "removes",
+    "excludes",
+    "eradicates"
+  ],
+  "eliminated": [
+    "removed",
+    "excluded",
+    "eradicated"
+  ],
+  "eliminating": [
+    "removing",
+    "excluding",
+    "eradicating"
+  ],
+  "organize": [
+    "arrange",
+    "structure",
+    "coordinate"
+  ],
+  "organizes": [
+    "arranges",
+    "structures",
+    "coordinates"
+  ],
+  "organized": [
+    "arranged",
+    "structured",
+    "coordinated"
+  ],
+  "organizing": [
+    "arranging",
+    "structuring",
+    "coordinating"
+  ],
+  "retain": [
+    "keep",
+    "preserve",
+    "maintain"
+  ],
+  "retains": [
+    "keeps",
+    "preserves",
+    "maintains"
+  ],
+  "retained": [
+    "kept",
+    "preserved",
+    "maintained"
+  ],
+  "retaining": [
+    "keeping",
+    "preserving",
+    "maintaining"
+  ],
+  "method": [
+    "technique",
+    "procedure",
+    "approach"
+  ],
+  "result": [
+    "outcome",
+    "finding"
+  ],
+  "objective": [
+    "aim",
+    "goal"
+  ],
+  "limitation": [
+    "constraint",
+    "restriction"
+  ],
+  "component": [
+    "element",
+    "part"
+  ],
+  "framework": [
+    "structure",
+    "system"
+  ],
+  "accurate": [
+    "correct",
+    "precise"
+  ],
+  "relevant": [
+    "pertinent",
+    "applicable"
+  ],
+  "complex": [
+    "complicated",
+    "intricate"
+  ],
+  "consistent": [
+    "uniform",
+    "stable"
+  ],
+  "initial": [
+    "first",
+    "starting"
+  ],
+  "subsequent": [
+    "later",
+    "following"
+  ],
+  "additional": [
+    "further",
+    "extra"
+  ],
+  "approximately": [
+    "roughly",
+    "about"
+  ],
+  "primarily": [
+    "mainly",
+    "chiefly"
+  ],
+  "frequently": [
+    "often",
+    "regularly"
+  ],
+  "occasionally": [
+    "sometimes",
+    "periodically"
+  ],
+  "previously": [
+    "earlier",
+    "formerly"
+  ],
+  "separately": [
+    "individually",
+    "independently"
+  ],
+  "explicitly": [
+    "expressly",
+    "directly"
+  ]
+}

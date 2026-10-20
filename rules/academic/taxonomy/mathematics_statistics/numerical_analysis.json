@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "approximation",
+    "subfield_name": "Numerical Approximation",
+    "topics": [
+      {
+        "topic_id": "approximation_core",
+        "topic_name": "Numerical Approximation",
+        "keywords": [
+          "interpolation",
+          "numerical quadrature",
+          "approximation error"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "numerical_linear_algebra",
+    "subfield_name": "Numerical Linear Algebra",
+    "topics": [
+      {
+        "topic_id": "numerical_linear_algebra_core",
+        "topic_name": "Numerical Linear Algebra",
+        "keywords": [
+          "matrix factorization",
+          "iterative solver",
+          "condition number"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

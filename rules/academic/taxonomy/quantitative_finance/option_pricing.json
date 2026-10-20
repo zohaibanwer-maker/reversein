@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "derivative_pricing",
+    "subfield_name": "Derivative Pricing",
+    "topics": [
+      {
+        "topic_id": "derivative_pricing_core",
+        "topic_name": "Derivative Pricing",
+        "keywords": [
+          "option pricing",
+          "Black-Scholes",
+          "risk-neutral valuation"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "numerical_pricing",
+    "subfield_name": "Numerical Pricing Methods",
+    "topics": [
+      {
+        "topic_id": "numerical_pricing_core",
+        "topic_name": "Numerical Pricing Methods",
+        "keywords": [
+          "binomial tree",
+          "Monte Carlo pricing",
+          "finite difference pricing"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

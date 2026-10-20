@@ -1,0 +1,385 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain regex_pairs. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  [
+    "\\bin\\ order\\ to\\b",
+    "to"
+  ],
+  [
+    "\\bfor\\ the\\ purpose\\ of\\b",
+    "for"
+  ],
+  [
+    "\\bwith\\ the\\ aim\\ of\\b",
+    "with the goal of"
+  ],
+  [
+    "\\bwith\\ the\\ objective\\ of\\b",
+    "with the aim of"
+  ],
+  [
+    "\\bat\\ the\\ present\\ time\\b",
+    "currently"
+  ],
+  [
+    "\\bat\\ this\\ point\\ in\\ time\\b",
+    "now"
+  ],
+  [
+    "\\bin\\ the\\ event\\ that\\b",
+    "if"
+  ],
+  [
+    "\\bon\\ the\\ condition\\ that\\b",
+    "provided that"
+  ],
+  [
+    "\\bin\\ spite\\ of\\ the\\ fact\\ that\\b",
+    "although"
+  ],
+  [
+    "\\bdespite\\ the\\ fact\\ that\\b",
+    "although"
+  ],
+  [
+    "\\bdue\\ to\\ the\\ fact\\ that\\b",
+    "because"
+  ],
+  [
+    "\\bowing\\ to\\ the\\ fact\\ that\\b",
+    "because"
+  ],
+  [
+    "\\bfor\\ the\\ reason\\ that\\b",
+    "because"
+  ],
+  [
+    "\\bin\\ view\\ of\\ the\\ fact\\ that\\b",
+    "because"
+  ],
+  [
+    "\\bprior\\ to\\ the\\ start\\ of\\b",
+    "before the start of"
+  ],
+  [
+    "\\bsubsequent\\ to\\ the\\ completion\\ of\\b",
+    "after the completion of"
+  ],
+  [
+    "\\bin\\ close\\ proximity\\ to\\b",
+    "near"
+  ],
+  [
+    "\\bin\\ the\\ vicinity\\ of\\b",
+    "near"
+  ],
+  [
+    "\\bin\\ conjunction\\ with\\b",
+    "together with"
+  ],
+  [
+    "\\bin\\ combination\\ with\\b",
+    "combined with"
+  ],
+  [
+    "\\bwith\\ regard\\ to\\b",
+    "regarding"
+  ],
+  [
+    "\\bwith\\ respect\\ to\\b",
+    "concerning"
+  ],
+  [
+    "\\bin\\ relation\\ to\\b",
+    "regarding"
+  ],
+  [
+    "\\bas\\ a\\ consequence\\ of\\b",
+    "as a result of"
+  ],
+  [
+    "\\bon\\ a\\ daily\\ basis\\b",
+    "daily"
+  ],
+  [
+    "\\bon\\ a\\ weekly\\ basis\\b",
+    "weekly"
+  ],
+  [
+    "\\bon\\ a\\ monthly\\ basis\\b",
+    "monthly"
+  ],
+  [
+    "\\bon\\ a\\ regular\\ basis\\b",
+    "regularly"
+  ],
+  [
+    "\\bat\\ frequent\\ intervals\\b",
+    "frequently"
+  ],
+  [
+    "\\bat\\ the\\ same\\ time\\b",
+    "simultaneously"
+  ],
+  [
+    "\\bat\\ a\\ later\\ stage\\b",
+    "later"
+  ],
+  [
+    "\\bin\\ the\\ first\\ instance\\b",
+    "initially"
+  ],
+  [
+    "\\bthe\\ majority\\ of\\b",
+    "most"
+  ],
+  [
+    "\\ba\\ large\\ proportion\\ of\\b",
+    "a substantial proportion of"
+  ],
+  [
+    "\\ba\\ small\\ proportion\\ of\\b",
+    "a limited proportion of"
+  ],
+  [
+    "\\bin\\ a\\ similar\\ manner\\b",
+    "similarly"
+  ],
+  [
+    "\\bin\\ a\\ different\\ manner\\b",
+    "differently"
+  ],
+  [
+    "\\bin\\ a\\ systematic\\ manner\\b",
+    "systematically"
+  ],
+  [
+    "\\bin\\ an\\ efficient\\ manner\\b",
+    "efficiently"
+  ],
+  [
+    "\\bin\\ an\\ independent\\ manner\\b",
+    "independently"
+  ],
+  [
+    "\\bin\\ a\\ consistent\\ manner\\b",
+    "consistently"
+  ],
+  [
+    "\\bin\\ an\\ accurate\\ manner\\b",
+    "accurately"
+  ],
+  [
+    "\\bin\\ a\\ gradual\\ manner\\b",
+    "gradually"
+  ],
+  [
+    "\\bin\\ a\\ direct\\ manner\\b",
+    "directly"
+  ],
+  [
+    "\\bin\\ an\\ explicit\\ manner\\b",
+    "explicitly"
+  ],
+  [
+    "\\bin\\ a\\ qualitative\\ manner\\b",
+    "qualitatively"
+  ],
+  [
+    "\\bin\\ a\\ quantitative\\ manner\\b",
+    "quantitatively"
+  ],
+  [
+    "\\bis\\ able\\ to\\b",
+    "can"
+  ],
+  [
+    "\\bare\\ able\\ to\\b",
+    "can"
+  ],
+  [
+    "\\bwas\\ able\\ to\\b",
+    "could"
+  ],
+  [
+    "\\bwere\\ able\\ to\\b",
+    "could"
+  ],
+  [
+    "\\bhas\\ the\\ ability\\ to\\b",
+    "can"
+  ],
+  [
+    "\\bhave\\ the\\ ability\\ to\\b",
+    "can"
+  ],
+  [
+    "\\bit\\ is\\ necessary\\ to\\b",
+    "it is required to"
+  ],
+  [
+    "\\bthis\\ study\\ examines\\b",
+    "this study investigates"
+  ],
+  [
+    "\\bthis\\ paper\\ describes\\b",
+    "this paper outlines"
+  ],
+  [
+    "\\bthis\\ section\\ presents\\b",
+    "this section reports"
+  ],
+  [
+    "\\bthe\\ following\\ section\\b",
+    "the next section"
+  ],
+  [
+    "\\bthe\\ preceding\\ section\\b",
+    "the previous section"
+  ],
+  [
+    "\\bas\\ described\\ above\\b",
+    "as previously described"
+  ],
+  [
+    "\\bas\\ discussed\\ below\\b",
+    "as discussed in the following text"
+  ],
+  [
+    "\\bas\\ illustrated\\ in\\b",
+    "as shown in"
+  ],
+  [
+    "\\bthe\\ results\\ suggest\\b",
+    "the findings suggest"
+  ],
+  [
+    "\\bthe\\ results\\ indicate\\b",
+    "the findings indicate"
+  ],
+  [
+    "\\bthese\\ findings\\ suggest\\b",
+    "these results suggest"
+  ],
+  [
+    "\\bfurther\\ investigation\\ is\\ required\\b",
+    "further investigation is needed"
+  ],
+  [
+    "\\badditional\\ research\\ is\\ required\\b",
+    "additional research is needed"
+  ],
+  [
+    "\\ba\\ possible\\ explanation\\ is\\b",
+    "one possible explanation is"
+  ],
+  [
+    "\\bone\\ limitation\\ of\\b",
+    "a limitation of"
+  ],
+  [
+    "\\bwithin\\ the\\ scope\\ of\\b",
+    "within the bounds of"
+  ],
+  [
+    "\\bunder\\ these\\ conditions\\b",
+    "in these circumstances"
+  ],
+  [
+    "\\bfor\\ each\\ individual\\b",
+    "for each"
+  ],
+  [
+    "\\bin\\ all\\ cases\\b",
+    "in every case"
+  ],
+  [
+    "\\ba\\ comparison\\ between\\b",
+    "a comparison of"
+  ],
+  [
+    "\\bmake\\ a\\ comparison\\b",
+    "compare"
+  ],
+  [
+    "\\bperform\\ an\\ analysis\\ of\\b",
+    "analyze"
+  ],
+  [
+    "\\bconduct\\ an\\ examination\\ of\\b",
+    "examine"
+  ],
+  [
+    "\\bcarry\\ out\\ an\\ evaluation\\ of\\b",
+    "evaluate"
+  ],
+  [
+    "\\bprovide\\ a\\ description\\ of\\b",
+    "describe"
+  ],
+  [
+    "\\bmake\\ an\\ adjustment\\ to\\b",
+    "adjust"
+  ],
+  [
+    "\\bperform\\ a\\ calculation\\ of\\b",
+    "calculate"
+  ],
+  [
+    "\\bprovide\\ an\\ explanation\\ of\\b",
+    "explain"
+  ],
+  [
+    "\\bgive\\ an\\ indication\\ of\\b",
+    "indicate"
+  ],
+  [
+    "\\bmake\\ use\\ of\\b",
+    "use"
+  ],
+  [
+    "\\btake\\ into\\ consideration\\b",
+    "consider"
+  ],
+  [
+    "\\btake\\ into\\ account\\b",
+    "consider"
+  ],
+  [
+    "\\bis\\ dependent\\ on\\b",
+    "depends on"
+  ],
+  [
+    "\\bare\\ dependent\\ on\\b",
+    "depend on"
+  ],
+  [
+    "\\bis\\ indicative\\ of\\b",
+    "indicates"
+  ],
+  [
+    "\\bare\\ indicative\\ of\\b",
+    "indicate"
+  ],
+  [
+    "\\bserves\\ as\\ an\\ example\\ of\\b",
+    "exemplifies"
+  ],
+  [
+    "\\bserves\\ as\\ an\\ illustration\\ of\\b",
+    "illustrates"
+  ],
+  [
+    "\\bwith\\ the\\ exception\\ of\\b",
+    "except for"
+  ],
+  [
+    "\\bin\\ the\\ absence\\ of\\b",
+    "without"
+  ],
+  [
+    "\\bthrough\\ the\\ use\\ of\\b",
+    "using"
+  ]
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "genome_analysis",
+    "subfield_name": "Genome Analysis",
+    "topics": [
+      {
+        "topic_id": "genome_analysis_core",
+        "topic_name": "Genome Analysis",
+        "keywords": [
+          "whole-genome sequencing",
+          "variant calling",
+          "genetic variation"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "functional_genomics",
+    "subfield_name": "Functional Genomics",
+    "topics": [
+      {
+        "topic_id": "functional_genomics_core",
+        "topic_name": "Functional Genomics",
+        "keywords": [
+          "RNA sequencing",
+          "gene regulation",
+          "functional genomics"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]

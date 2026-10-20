@@ -1,0 +1,41 @@
+[
+  {
+    "__prompt__": "Role: Academic language resource editor. Task: Maintain taxonomy. Rules: Preserve grammatical form, technical meaning, negation, quantities, and uncertainty. Do not invent evidence or references. Candidates require contextual review; do not assume universal synonym equivalence."
+  },
+  {
+    "subfield_id": "digital_signals",
+    "subfield_name": "Digital Signal Processing",
+    "topics": [
+      {
+        "topic_id": "digital_signals_core",
+        "topic_name": "Digital Signal Processing",
+        "keywords": [
+          "sampling",
+          "digital filter",
+          "Fourier transform"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  },
+  {
+    "subfield_id": "signal_estimation",
+    "subfield_name": "Signal Estimation",
+    "topics": [
+      {
+        "topic_id": "signal_estimation_core",
+        "topic_name": "Signal Estimation",
+        "keywords": [
+          "Kalman filter",
+          "spectral estimation",
+          "signal reconstruction"
+        ],
+        "authors": [],
+        "journals": [],
+        "references": []
+      }
+    ]
+  }
+]
